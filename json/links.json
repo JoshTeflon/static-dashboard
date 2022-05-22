@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Home",
+    "link": "/dashboard",
+    "disabled": false
+  },
+  {
+    "name": "My Department",
+    "link": "/department",
+    "disabled": true
+  },
+  {
+    "name": "My Courses",
+    "link": "courses",
+    "disabled": true
+  },
+  {
+    "name": "About",
+    "link": "about",
+    "disabled": true
+  },
+  {
+    "name": "Admin",
+    "link": "admin",
+    "disabled": true
+  }
+]
